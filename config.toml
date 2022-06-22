@@ -18,7 +18,6 @@ description = "Yan Su's personal website"
 keywords = "blog,developer,personal"
 info = [" Undergraduate from USTC", "Majoring in Statistics"]
 avatarURL = "images/avatar.png"
-#gravatar = "john.doe@example.com"
 since = 2022
 katex = true
 math = true
@@ -46,7 +45,7 @@ customJS = []
 name = "Github"
 icon = "fa fa-2x fa-github"
 weight = 1
-url = "https://www.bilibili.com/video/BV1GJ411x7h7"
+url = "https://github.com/xYs201821"
 
 [[params.social]]
 name = "Youtube"
@@ -84,20 +83,20 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "Home"
 weight = 1
-url = "http://home.ustc.edu.cn/~xys201821/home/"
+url = "/home/"
 
 [[languages.en.menu.main]]
 name = "Curriculum Vitae"
 weight = 2
-url = "http://home.ustc.edu.cn/~xys201821/cv/"
+url = "/cv/"
 
 [[languages.en.menu.main]]
 name = "Education"
 weight = 3
-url = "http://home.ustc.edu.cn/~xys201821/education/"
+url = "/education/"
 
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 4
-url = "http://home.ustc.edu.cn/~xys201821/posts/"
+url = "/posts/"
 

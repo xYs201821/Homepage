@@ -2,25 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://home.ustc.edu.cn/~xys201821/tags/boring/</loc>
-    <lastmod>2022-06-22T22:57:20+08:00</lastmod>
+    <loc>http://home.ustc.edu.cn/~xys201821/categories/</loc>
+    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
   </url><url>
     <loc>http://home.ustc.edu.cn/~xys201821/posts/</loc>
+    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
+  </url><url>
+    <loc>http://home.ustc.edu.cn/~xys201821/tags/</loc>
+    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
+  </url><url>
+    <loc>http://home.ustc.edu.cn/~xys201821/</loc>
+    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
+  </url><url>
+    <loc>http://home.ustc.edu.cn/~xys201821/tags/%E8%AF%97/</loc>
+    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
+  </url><url>
+    <loc>http://home.ustc.edu.cn/~xys201821/categories/%E8%AF%97/</loc>
+    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
+  </url><url>
+    <loc>http://home.ustc.edu.cn/~xys201821/posts/poems1/</loc>
+    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
+  </url><url>
+    <loc>http://home.ustc.edu.cn/~xys201821/tags/%E8%BE%9B%E6%B3%A2%E6%96%AF%E5%8D%A1/</loc>
+    <lastmod>2022-06-23T00:03:22+08:00</lastmod>
+  </url><url>
+    <loc>http://home.ustc.edu.cn/~xys201821/tags/boring/</loc>
     <lastmod>2022-06-22T22:57:20+08:00</lastmod>
   </url><url>
     <loc>http://home.ustc.edu.cn/~xys201821/posts/schoolhatry/</loc>
     <lastmod>2022-06-22T22:57:20+08:00</lastmod>
   </url><url>
-    <loc>http://home.ustc.edu.cn/~xys201821/tags/</loc>
-    <lastmod>2022-06-22T22:57:20+08:00</lastmod>
-  </url><url>
     <loc>http://home.ustc.edu.cn/~xys201821/tags/test/</loc>
     <lastmod>2022-06-22T22:57:20+08:00</lastmod>
   </url><url>
-    <loc>http://home.ustc.edu.cn/~xys201821/</loc>
-    <lastmod>2022-06-22T22:57:20+08:00</lastmod>
-  </url><url>
-    <loc>http://home.ustc.edu.cn/~xys201821/posts/%E4%B8%8D%E6%83%B3%E4%B8%8A%E5%AD%A6/</loc>
+    <loc>http://home.ustc.edu.cn/~xys201821/posts/schoolhatry-zh/</loc>
     <lastmod>2022-06-22T22:42:43+08:00</lastmod>
   </url><url>
     <loc>http://home.ustc.edu.cn/~xys201821/education/</loc>
@@ -31,7 +46,5 @@
   </url><url>
     <loc>http://home.ustc.edu.cn/~xys201821/home/</loc>
     <lastmod>2022-06-20T11:37:23+08:00</lastmod>
-  </url><url>
-    <loc>http://home.ustc.edu.cn/~xys201821/categories/</loc>
   </url>
 </urlset>
