@@ -98,6 +98,6 @@ url = "http://home.ustc.edu.cn/~xys201821/education/"
 
 [[languages.en.menu.main]]
 name = "Blog"
-weight = 5
+weight = 4
 url = "http://home.ustc.edu.cn/~xys201821/posts/"
 
