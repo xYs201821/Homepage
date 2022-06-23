@@ -1,4 +1,5 @@
-baseURL = "http://home.ustc.edu.cn/~xys201821"
+baseURL = "http://home.ustc.edu.cn/~xys201821/"
+#baseURL = "http://xys.github.io/"
 #relativeURLs = true
 #uglyURLs = true
 languageCode = 'en-us'
@@ -83,20 +84,20 @@ languageName = ":uk:"
 [[languages.en.menu.main]]
 name = "Home"
 weight = 1
-url = "/home/"
+url = "home/"
 
 [[languages.en.menu.main]]
 name = "Curriculum Vitae"
 weight = 2
-url = "/cv/"
+url = "cv/"
 
 [[languages.en.menu.main]]
 name = "Education"
 weight = 3
-url = "/education/"
+url = "education/"
 
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 4
-url = "/posts/"
+url = "posts/"
 
